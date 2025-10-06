@@ -30,3 +30,13 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Artisan binary
+artisan
+
+# Generated files from CLI
+app/controllers/
+app/models/
+
+# Example app binaries
+examples/example-app
