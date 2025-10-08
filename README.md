@@ -47,11 +47,7 @@ fibernova make:route resource /users UserController
 ```
 This appends RESTful route bindings for `/users` to the router, mapped to `UserController` methods.
 
-The CLI follows Laravel-inspired conventions while adapting to Go’s package structure and Fiber’s routing system, ensuring a smooth developer experience [1].
-
-引用：
-[1] Laravel to Go: My Journey and the Creation of a Fiber API ... https://dev.to/granitebps/laravel-to-go-my-journey-and-the-creation-of-a-fiber-api-boilerplate-2pll
-
+The CLI follows Laravel-inspired conventions while adapting to Go’s package structure and Fiber’s routing system, ensuring a smooth developer experience.
 
 Technology Stack
-Fiber + GORM + toml + Nuxt.js
+[Fiber](https://gofiber.io/) + [GORM](https://gorm.io/index.html) + [toml](https://toml.io/en/) + [Nuxt.js](https://nuxt.com/)
