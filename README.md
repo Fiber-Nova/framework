@@ -2,18 +2,6 @@
 FiberNova is a full-stack, Laravel-inspired web framework built on Go Fiber, designed to combine blazing-fast performance with elegant, structured development for modern cloud-native applications.
 
 ## Getting Started
-Make command for:
-
-
-
-    Command to initial FiberNova app
-
-    Create Model
-
-    Create Middleware
-Create controller
-Create route
-
 Here are the proposed CLI commands for initializing and developing a FiberNova application:
 
 ### Initialize FiberNova App
