@@ -49,5 +49,5 @@ This appends RESTful route bindings for `/users` to the router, mapped to `UserC
 
 The CLI follows Laravel-inspired conventions while adapting to Go’s package structure and Fiber’s routing system, ensuring a smooth developer experience.
 
-Technology Stack
+## Technology Stack
 [Fiber](https://gofiber.io/) + [GORM](https://gorm.io/index.html) + [toml](https://toml.io/en/) + [Nuxt.js](https://nuxt.com/)
